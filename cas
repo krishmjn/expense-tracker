@@ -1,0 +1,11 @@
+[33mcommit 4e42fbdf5706fafa6279da4ca9ce768b7ba26485[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: krish maharjan <krishmaharjan6677@gmail.com>
+Date:   Sun Sep 25 15:25:51 2022 +0545
+
+    expense trackert first commit
+
+[33mcommit 8b8b28919559703acc7f1a8a20a826c74787b5fc[m
+Author: krish maharjan <krishmaharjan6677@gmail.com>
+Date:   Sat Aug 20 14:28:47 2022 +0545
+
+    Initialize project using Create React App
